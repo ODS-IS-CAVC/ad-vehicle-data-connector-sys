@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "fms.auth.url.base",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.auth.url.base'"
+  },
+  {
+    "name": "fms.auth.url.version",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.auth.url.version'"
+  },
+  {
+    "name": "fms.auth.url.token",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.auth.url.token'"
+  },
+  {
+    "name": "fms.auth.timeout.conn",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.auth.timeout.conn'"
+  },
+  {
+    "name": "fms.auth.timeout.read",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.auth.timeout.read'"
+  },
+  {
+    "name": "fms.api.url.base",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.url.base'"
+  },
+  {
+    "name": "fms.api.url.version",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.url.version'"
+  },
+  {
+    "name": "fms.api.url.vehiclel.all",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.url.vehiclel.all'"
+  },
+  {
+    "name": "fms.api.timeout.conn",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.timeout.conn'"
+  },
+  {
+    "name": "fms.api.timeout.read",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.timeout.read'"
+  },
+  {
+    "name": "fms.api.project.id",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.project.id'"
+  },
+  {
+    "name": "fms.api.environment.id",
+    "type": "java.lang.String",
+    "description": "A description for 'fms.api.environment.id'"
+  }
+]}
