@@ -1,0 +1,10 @@
+{
+"dataModelType":"test1",
+"attribute":{
+"routeId":"routeId",
+"points":[
+],
+"etaSec":3600,
+"distanceMeters":30000
+}
+}
