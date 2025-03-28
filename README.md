@@ -4,6 +4,14 @@
 必要な車両情報を提供するために自動運転車両管理システムとデータ流通システム（車両情報連携システム）間を接続するシステム。
 ![Image](https://github.com/user-attachments/assets/8ebfcd63-a89f-424c-b1f6-e85963951a80)
 
+## API
+.Web.Auto FMS API
+FMS API は、自動運転車両の運行管理に必要な機能を、HTTP や WebSocket による API で提供します。FMS API を利用して、ビジネスモデルに沿ったオリジナルの運行管理サービスや、 Web アプリケーションを開発・提供することができます。
+FMS API の仕様については、以下リファレンスサイトからご確認ください
+https://docs.fms.web.auto/v1
+
+.データ流通システムAPI
+https://github.com/digilineEH-dts/C-1/tree/main/DigitalZensoAPI
 
 ## 問合せ及び要望に関して
 本リポジトリは主に配布目的の運用となるため、IssueやPull Requestに関しては受け付けておりません。
