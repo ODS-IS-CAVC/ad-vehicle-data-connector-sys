@@ -5,13 +5,13 @@
 ![Image](https://github.com/user-attachments/assets/8ebfcd63-a89f-424c-b1f6-e85963951a80)
 
 ## API
-.Web.Auto FMS API
+●Web.Auto FMS API
 FMS API は、自動運転車両の運行管理に必要な機能を、HTTP や WebSocket による API で提供します。FMS API を利用して、ビジネスモデルに沿ったオリジナルの運行管理サービスや、 Web アプリケーションを開発・提供することができます。
 
 FMS API の仕様については、以下リファレンスサイトからご確認ください
-!https://docs.fms.web.auto/v1
+https://docs.fms.web.auto/v1
 
-.データ流通システムAPI
+●データ流通システムAPI
 https://github.com/digilineEH-dts/C-1/tree/main/DigitalZensoAPI
 
 
